@@ -13,4 +13,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+    <Button
+        android:id="@+id/mudula_activity_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="调用Modul组件中的Activity"/>
 </RelativeLayout>
